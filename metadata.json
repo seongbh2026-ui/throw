@@ -1,0 +1,6 @@
+{
+  "name": "돌던지기 게임",
+  "description": "파워와 각도를 조절해 돌을 멀리 던지는 아주 간단한 물리 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
